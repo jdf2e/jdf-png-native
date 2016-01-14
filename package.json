@@ -1,0 +1,59 @@
+{
+  "name": "jdf-png-native",
+  "version": "1.0.0",
+  "description": "A library for promises (CommonJS/Promises/A,B,D)",
+  "homepage": "https://github.com/putaoshu/jdf",
+  "author": {
+    "name": "wshxbqq",
+    "email": "wshxbqq@gmail.com",
+    "url": "https://github.com/putaoshu/jdf"
+  },
+  "keywords": [
+    "jdf"
+  ],
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/putaoshu/jdf/issues"
+  },
+  "license": "",
+  "main": "index.js",
+  "files": [
+  "scripts",
+    "node-pngquant-native",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/putaoshu/jdf.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "install": "node scripts/install.js"
+    },
+  "directories": {},
+  "_from": "jdf-png-native@>=1.0.0 <2.0.0",
+  "devDependencies": {},
+  "_id": "jdf-png-native@1.0.0",
+  "_shasum": "eee079e9f2fa34b6b01235e123beac6ae458c8e4",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "wshxbqq",
+    "email": "wshxbqq@gmail.com"
+  },
+  "dist": {
+    "shasum": "eee079e9f2fa34b6b01235e123beac6ae458c8e4",
+    "tarball": "http://registry.npmjs.org/jdf-png-native/-/jdf-png-native-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "wshxbqq",
+      "email": "wshxbqq@gmail.com"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/jdf-png-native/-/jdf-png-native-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
