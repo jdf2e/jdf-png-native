@@ -18,7 +18,6 @@
   "license": "",
   "main": "index.js",
   "files": [
-  "scripts",
     "node-pngquant-native",
     "index.js"
   ],
@@ -30,11 +29,9 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {},
-  "scripts": {
-    "install": "node scripts/install.js"
-    },
+  "scripts": {},
   "directories": {},
-  "_from": "jdf-png-native@>=1.0.0 <2.0.0",
+  "_from": "jdf-png-native@*",
   "devDependencies": {},
   "_id": "jdf-png-native@1.0.0",
   "_shasum": "eee079e9f2fa34b6b01235e123beac6ae458c8e4",
