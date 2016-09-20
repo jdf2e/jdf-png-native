@@ -1,56 +1,78 @@
 {
-  "name": "jdf-png-native",
-  "version": "1.0.2",
-  "description": "jdf-png-native (jdf inner package)",
-  "homepage": "https://github.com/putaoshu/jdf",
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
     "url": "https://github.com/putaoshu/jdf"
   },
-  "keywords": [
-    "jdf"
-  ],
-  "contributors": [],
+  "bindingMap": {
+    "0.12.0": [
+      "0.12.0",
+      "0.12.99"
+    ],
+    "0.8.0": [
+      "0.8.0",
+      "0.8.25"
+    ],
+    "0.9.9": [
+      "0.10.0",
+      "0.10.99"
+    ],
+    "4.0.0": [
+      "4.0.0",
+      "4.20.20"
+    ],
+    "5.0.0": [
+      "5.0.0",
+      "5.99.99"
+    ],
+    "6.0.0": [
+      "6.0.0",
+      "6.99.99"
+    ]
+  },
   "bugs": {
     "url": "https://github.com/putaoshu/jdf/issues"
   },
-  "license": "",
-  "main": "index.js",
-  "files": [
-    "node-pngquant-native",
-    "index.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/putaoshu/jdf.git"
+  "contributors": [],
+  "dependencies": {},
+  "description": "A fork from node-png-native, use for jdf only",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "f7ece9777c7dcb0304957ee0e2128704842a11ef",
+    "size": 5767463,
+    "tarball": "http://r.cnpmjs.org/jdf-png-native/download/jdf-png-native-1.0.8.tgz"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
-  "dependencies": {},
-  "scripts": {},
-  "directories": {},
-  "_from": "jdf-png-native@*",
-  "devDependencies": {},
-  "_id": "jdf-png-native@1.0.0",
-  "_shasum": "eee079e9f2fa34b6b01235e123beac6ae458c8e4",
-  "_npmVersion": "2.7.4",
-  "_nodeVersion": "0.12.2",
-  "_npmUser": {
-    "name": "wshxbqq",
-    "email": "wshxbqq@gmail.com"
-  },
-  "dist": {
-    "shasum": "eee079e9f2fa34b6b01235e123beac6ae458c8e4",
-    "tarball": "http://registry.npmjs.org/jdf-png-native/-/jdf-png-native-1.0.0.tgz"
-  },
+  "files": [
+    "bindings",
+    "binding.js",
+    "index.js"
+  ],
+  "gitHead": "c5f381bad24733c1618393d97c08a1a1f2687939",
+  "homepage": "https://github.com/putaoshu/jdf",
+  "keywords": [
+    "jdf"
+  ],
+  "license": "",
+  "main": "index.js",
   "maintainers": [
     {
       "name": "wshxbqq",
       "email": "wshxbqq@gmail.com"
     }
   ],
-  "_resolved": "https://registry.npmjs.org/jdf-png-native/-/jdf-png-native-1.0.0.tgz",
-  "readme": "ERROR: No README data found!"
+  "name": "jdf-png-native",
+  "optionalDependencies": {},
+  "publish_time": 1464625361131,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/putaoshu/jdf.git"
+  },
+  "scripts": {},
+  "version": "1.1.0"
 }
